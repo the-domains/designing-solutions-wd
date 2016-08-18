@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T20:14:50.548Z'
+datePublished: '2016-08-18T20:19:41.523Z'
 sourcePath: _posts/2016-08-18-web-applications.md
 author: []
 via: {}
-dateModified: '2016-08-18T20:14:50.005Z'
+dateModified: '2016-08-18T20:19:41.441Z'
 title: What We Do
 publisher: {}
 description: >-
