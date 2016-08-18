@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.3750992885325104
 name: Designing Solutions WD
+navigation:
+  - name: What We Do
+    id: c37f6a7d-e5cd-4a0a-99b8-9ccbdeefc3d5
+    type: content
 title: designing solutions
 description: so you don't have to
