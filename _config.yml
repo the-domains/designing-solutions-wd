@@ -11,6 +11,12 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.3750992885325104
+author:
+  name: Michael Grassman
+  email: mgrassman@designing-solutions.com
+  url: designing-solutions.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcde5ab9-37bd-4b1e-880b-4b9401dcdf14.png
 name: Designing Solutions WD
 navigation:
   - name: What We Do
