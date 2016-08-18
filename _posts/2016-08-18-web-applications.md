@@ -1,19 +1,18 @@
 ---
-datePublished: '2016-08-18T20:14:32.395Z'
+datePublished: '2016-08-18T20:14:50.548Z'
 sourcePath: _posts/2016-08-18-web-applications.md
 author: []
 via: {}
-dateModified: '2016-08-18T20:14:31.851Z'
+dateModified: '2016-08-18T20:14:50.005Z'
 title: What We Do
 publisher: {}
 description: >-
-  Web Applications Creating web applications using cutting edge technologies or
+  Web ApplicationsCreating web applications using cutting edge technologies or
   really ancient ones if the site just needs a little touch up.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: what-we-do/index.html
+_type: Blurb
 
 ---
 # What We Do
