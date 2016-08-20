@@ -1,26 +1,38 @@
-typography_spectrum: 0.9308119448833168
+author:
+  name: Michael Grassman
+  email: mgrassman@designing-solutions.com
+  url: designing-solutions.com
+title: designing solutions
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcde5ab9-37bd-4b1e-880b-4b9401dcdf14.png
+description: so you don't have to
 color:
-  brandStrength: 0.45228242594748735
-  lightness: 0.6933388086035848
   saturation: 0.8437220377381891
-  rhythmicContrast: 0.45300886896438897
+  brandStrength: 0.4522824259474874
+  rhythmicContrast: 0.453008868964389
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.3750992885325104
-author:
-  name: Michael Grassman
-  email: mgrassman@designing-solutions.com
-  url: designing-solutions.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcde5ab9-37bd-4b1e-880b-4b9401dcdf14.png
-name: Designing Solutions WD
+  lightness: 0.6933388086035848
+typography_spectrum: 0.3225806
 navigation:
   - name: What We Do
     id: c37f6a7d-e5cd-4a0a-99b8-9ccbdeefc3d5
     type: content
-title: designing solutions
-description: so you don't have to
+layout_spectrum: 0.3750992885325104
+name: Designing Solutions WD
